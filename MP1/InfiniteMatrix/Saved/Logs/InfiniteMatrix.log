@@ -966,3 +966,1222 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.11-17.33.46:775][794]LogSlate: Window 'Widget Reflector' being destroyed
 [2022.02.11-17.33.46:780][794]LogSlate: Window 'Widget Reflector' being destroyed
 [2022.02.11-17.33.50:522][227]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner
+[2022.02.11-17.53.20:599][996]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.02.11-17.53.20:599][996]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.02.11-17.53.20:599][996]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.02.11-17.53.20:599][996]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.02.11-17.53.20:599][996]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.02.11-17.53.20:599][996]LogWindows: Warning: URL: C:\Users\Gloria\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.02.11-17.53.20:599][996]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.02.11-17.53.20:599][996]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.02.11-17.53.20:599][996]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.02.11-17.53.20:599][996]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.02.11-17.53.20:599][996]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.02.11-17.53.20:599][996]LogWindows: Warning: URL: C:\Users\Gloria\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.02.11-17.53.20:599][996]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.02.11-17.53.20:599][996]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.02.11-17.53.25:929][625]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2022.02.11-17.53.25:929][625]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/ version
+[2022.02.11-17.54.51:642][973]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.11-17.56.01:155][191]SourceControl: Source control is disabled
+[2022.02.11-17.56.01:155][191]LogSlate: Window 'Source Control Login' being destroyed
+[2022.02.11-17.56.58:019][827]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2022.02.11-17.56.58:019][827]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/ version
+[2022.02.11-18.02.10:294][620]LogSlate: Window 'Source Control Login' being destroyed
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:456][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.02.28:584][662]EditorErrors: Warning: No assets to check in!
+[2022.02.11-18.03.29:380][910]LogSlate: Window 'Source Control Login' being destroyed
+[2022.02.11-18.06.12:463][941]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.02.11-18.06.13:228][990]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.02.11-18.06.16:564][331]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Health.WBP_Health
+[2022.02.11-18.06.17:196][341]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Restart.WBP_Restart
+[2022.02.11-18.08.31:095][447]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.11-18.08.40:065][447]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.11-18.08.54:222][ 42]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_01.SM_Hole_01
+[2022.02.11-18.08.54:258][ 42]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.11-18.08.54:805][ 43]LogRenderer: Reallocating scene render targets to support 1616x960 Format 10 NumSamples 1 (Frame:1).
+[2022.02.11-18.09.40:568][370]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-18.09.40:568][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-18.22.41:835][  9]LogActorFactory: Actor Factory created Sphere
+[2022.02.11-18.22.44:306][301]LogActorFactory: Actor Factory created Sphere
+[2022.02.11-18.23.04:895][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2022.02.11-18.23.05:511][515]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Sphere)
+[2022.02.11-18.23.16:128][699]LogActorFactory: Actor Factory created Sphere
+[2022.02.11-18.23.19:675][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2022.02.11-18.23.45:828][ 62]Cmd: DELETE
+[2022.02.11-18.23.45:828][ 62]Cmd: ACTOR DELETE
+[2022.02.11-18.23.45:829][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.11-18.23.45:924][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2022.02.11-18.23.45:926][ 62]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2022.02.11-18.24.08:632][ 41]LogSlate: Window 'Save Asset As' being destroyed
+[2022.02.11-18.25.27:958][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.02.11-18.25.27:974][ 10]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/TutorialMap_Auto1D4BCE0144A30345A4FDD8E8923A1F664.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto1.umap'
+[2022.02.11-18.25.27:974][ 10]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.054
+[2022.02.11-18.25.27:974][ 10]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2022.02.11-18.28.31:028][952]Cmd: DELETE
+[2022.02.11-18.28.31:028][952]Cmd: ACTOR DELETE
+[2022.02.11-18.28.31:029][952]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.11-18.28.31:058][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.02.11-18.28.31:059][952]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2022.02.11-18.35.28:714][196]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2022.02.11-18.35.28:722][196]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/TutorialMap_Auto2DFCB142F4B6360FBE13472A72857F67A.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto2.umap'
+[2022.02.11-18.35.28:723][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.082
+[2022.02.11-18.35.28:723][196]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2022.02.11-18.35.28:723][196]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([2] browsable assets)...
+[2022.02.11-18.35.28:738][196]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2022.02.11-18.35.28:762][196]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel_C]
+[2022.02.11-18.35.28:762][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2022.02.11-18.35.28:781][196]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_Tunnel_Auto2A8740142434C01CD868255B015DB1A3A.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto2.uasset'
+[2022.02.11-18.35.28:781][196]LogFileHelpers: Auto-saving content packages took 0.058
+[2022.02.11-18.41.25:427][597]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.11-18.41.25:455][597]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.11-18.41.28:875][988]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.02.11-18.41.28:875][988]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.11-18.42.16:881][685]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Gloria/OneDrive/Pictures/Downloads/health-pack/textures/HealthPack_Albedo.png)
+[2022.02.11-18.42.16:956][685]LogTexture: Display: Building textures: HealthPack_Albedo (OODLE_AutoDXT, 2048X2048)
+[2022.02.11-18.42.17:111][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-18.42.17:111][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-18.42.17:185][685]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Gloria/OneDrive/Pictures/Downloads/health-pack/textures/HealthPack_Emission.png)
+[2022.02.11-18.42.17:230][685]LogTexture: Display: Building textures: HealthPack_Emission (OODLE_AutoDXT, 2048X2048)
+[2022.02.11-18.42.17:292][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-18.42.17:292][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-18.42.17:355][685]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Gloria/OneDrive/Pictures/Downloads/health-pack/textures/HealthPack_Metallic.png)
+[2022.02.11-18.42.17:424][685]LogTexture: Display: Building textures: HealthPack_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.02.11-18.42.17:571][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-18.42.17:571][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.11-18.42.17:638][685]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Gloria/OneDrive/Pictures/Downloads/health-pack/textures/HealthPack_Normal.png)
+[2022.02.11-18.42.17:720][685]LogTexture: Display: Building textures: HealthPack_Normal (OODLE_BC5, 2048X2048)
+[2022.02.11-18.42.17:792][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.11-18.42.17:792][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.11-18.42.17:931][685]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Gloria/OneDrive/Pictures/Downloads/health-pack/textures/HealthPack_Occlusion.png)
+[2022.02.11-18.42.17:945][685]LogTexture: Display: Building textures: HealthPack_Occlusion (OODLE_AutoDXT, 2048X2048)
+[2022.02.11-18.42.18:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-18.42.18:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-18.42.18:216][685]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Gloria/OneDrive/Pictures/Downloads/health-pack/textures/HealthPack_roughness.png)
+[2022.02.11-18.42.18:252][685]LogTexture: Display: Building textures: HealthPack_roughness (OODLE_AutoDXT, 2048X2048)
+[2022.02.11-18.42.18:480][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-18.42.18:480][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.11-18.43.48:113][438]Cmd: DELETE
+[2022.02.11-18.43.48:113][438]Cmd: ACTOR DELETE
+[2022.02.11-18.43.48:115][438]LogEditorActor: Deleted Actor: Actor
+[2022.02.11-18.43.48:174][438]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.02.11-18.43.48:180][438]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2022.02.11-18.44.15:170][309]BlueprintLog: New page: Compile BP_Tunnel
+[2022.02.11-18.44.15:226][309]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2022.02.11-18.44.23:885][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Maps/TutorialMap" FILE="D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Maps/TutorialMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.11-18.44.23:916][297]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.02.11-18.44.23:924][297]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/TutorialMap5B004DB942A35873E7975BB8A108EFC2.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2022.02.11-18.44.23:942][297]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.11-18.44.23:942][297]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2022.02.11-18.44.23:942][297]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2022.02.11-18.44.25:384][446]BlueprintLog: New page: Compile BP_Tunnel
+[2022.02.11-18.44.25:434][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.02.11-18.45.51:336][ 60]LogEditor: Attempting to add actor of class 'MaterialInstanceActor' to level at -320.00,-600.00,230.00
+[2022.02.11-18.45.52:759][230]LogEditor: Attempting to add actor of class 'MaterialInstanceActor' to level at 120.00,-460.00,-130.00
+[2022.02.11-18.46.01:811][315]Cmd: DELETE
+[2022.02.11-18.46.01:811][315]Cmd: ACTOR DELETE
+[2022.02.11-18.46.01:812][315]LogEditorActor: Deleted Actor: MaterialInstanceActor
+[2022.02.11-18.46.01:845][315]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.02.11-18.46.01:849][315]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.02.11-18.51.02:601][851]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Gloria/OneDrive/Pictures/Downloads/health-pack/source/HealthPack.Obj)
+[2022.02.11-18.51.02:617][851]LogFbx: Loading FBX Scene from ../../../../../../Users/Gloria/OneDrive/Pictures/Downloads/health-pack/source/HealthPack.Obj
+[2022.02.11-18.51.02:624][851]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.11-18.52.32:605][851]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.11-18.52.32:644][851]LogMaterial: Display: Missing cached shadermap for HealthPackMat in PCD3D_SM5, Default, SM5 (DDC key hash: 585A47A8247DAC7D00039B5EFF1DCA3157737D6D), compiling. 
+[2022.02.11-18.52.32:646][851]LogFbx: Display: Triangulating static mesh HealthPack
+[2022.02.11-18.52.32:654][851]LogStaticMesh: Building static mesh HealthPack...
+[2022.02.11-18.52.32:662][851]LogStaticMesh: Built static mesh [0.01s] /Game/InfiniteMatrix/Meshes/HealthPack.HealthPack
+[2022.02.11-18.52.32:794][856]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.11-18.52.32:802][856]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.11-18.52.32:802][856]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.11-18.52.32:802][856]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.11-18.52.32:823][856]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.02.11-18.52.32:823][856]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.02.11-18.52.32:823][856]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.02.11-18.52.32:823][856]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.02.11-18.52.32:823][856]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.02.11-18.52.32:823][856]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.02.11-18.52.32:823][856]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.02.11-18.52.32:823][856]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-18.52.33:368][900]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.11-18.52.33:368][900]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-18.52.33:372][900]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.11-18.52.33:372][900]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.02.11-18.52.33:372][900]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.02.11-18.52.33:372][900]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.02.11-18.52.33:372][900]LogShaderCompilers: Display: ================================================
+[2022.02.11-18.52.33:465][908]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.02.11-18.52.33:465][908]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.11-18.52.45:633][755]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/HealthPack.HealthPack
+[2022.02.11-18.53.37:017][139]LogSlate: Window 'Save Asset As' being destroyed
+[2022.02.11-18.53.39:697][139]LogSlate: Window 'Message' being destroyed
+[2022.02.11-18.53.39:701][139]Message dialog closed, result: Yes, title: Message, text: An object [HealthPack_Albedo] of class [Texture2D] already exists in file [/Game/InfiniteMatrix/Meshes/HealthPack_Albedo].  Do you want to replace the existing object?  If you click 'Yes', the existing object will be deleted.  Otherwise, click 'No' and choose a unique name for your new object.
+[2022.02.11-18.53.39:748][139]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2022.02.11-18.54.03:209][327]LogSlate: Window 'Save Asset As' being destroyed
+[2022.02.11-18.54.05:282][327]LogSlate: Window 'Message' being destroyed
+[2022.02.11-18.54.05:286][327]Message dialog closed, result: Yes, title: Message, text: An object [HealthPack_Occlusion] of class [Texture2D] already exists in file [/Game/InfiniteMatrix/Meshes/HealthPack_Occlusion].  Do you want to replace the existing object?  If you click 'Yes', the existing object will be deleted.  Otherwise, click 'No' and choose a unique name for your new object.
+[2022.02.11-18.54.05:328][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.02.11-18.54.30:811][746]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 06EE5D44F9AF12B415B3846E472AF7F9658B4699), compiling. 
+[2022.02.11-18.54.30:812][746]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\EngineMaterials\HighResolutionScreenshotMaskFunction.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.11-18.54.30:812][746]LogMaterial: Display: 	SceneTexture expressions cannot be used in opaque materials
+[2022.02.11-18.54.31:558][811]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.54.31:591][814]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.54.58:827][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/WorldMovementGrid: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/WorldMovementGrid' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.54.58:827][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.54.58:827][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/HeatmapMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/HeatmapMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.03:950][832]LogSlate: Window 'Save Asset As' being destroyed
+[2022.02.11-18.55.11:239][832]LogSlate: Window 'Message' being destroyed
+[2022.02.11-18.55.11:244][832]Message dialog closed, result: Yes, title: Message, text: An object [HealthPack_Normal] of class [Texture2D] already exists in file [/Game/InfiniteMatrix/Meshes/HealthPack_Normal].  Do you want to replace the existing object?  If you click 'Yes', the existing object will be deleted.  Otherwise, click 'No' and choose a unique name for your new object.
+[2022.02.11-18.55.11:287][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.02.11-18.55.14:551][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.02.11-18.55.14:559][119]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/TutorialMap_Auto35803B64547762E1A7D0177959CF78480.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto3.umap'
+[2022.02.11-18.55.14:559][119]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.038
+[2022.02.11-18.55.14:559][119]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2022.02.11-18.55.14:560][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([2] browsable assets)...
+[2022.02.11-18.55.14:567][119]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2022.02.11-18.55.14:568][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2022.02.11-18.55.14:587][119]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_Tunnel_Auto3D910B0C743922109A51D20A2F94C1330.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto3.uasset'
+[2022.02.11-18.55.14:588][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Meshes/HealthPack_Emission] ([1] browsable assets)...
+[2022.02.11-18.55.14:591][119]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/InfiniteMatrix/Meshes/HealthPack_Emission.HealthPack_Emission]
+[2022.02.11-18.55.14:591][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Meshes/HealthPack_Emission]
+[2022.02.11-18.55.14:607][119]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/HealthPack_Emission_Auto3EECA48674A05BDB47C1AD48ABA60A1DC.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Meshes/HealthPack_Emission_Auto3.uasset'
+[2022.02.11-18.55.14:608][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Meshes/HealthPack_Metallic] ([1] browsable assets)...
+[2022.02.11-18.55.14:612][119]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/InfiniteMatrix/Meshes/HealthPack_Metallic.HealthPack_Metallic]
+[2022.02.11-18.55.14:612][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Meshes/HealthPack_Metallic]
+[2022.02.11-18.55.14:621][119]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/HealthPack_Metallic_Auto374EAE21A4F83EBA8296101A9BEC54DEC.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Meshes/HealthPack_Metallic_Auto3.uasset'
+[2022.02.11-18.55.14:622][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Meshes/HealthPack_roughness] ([1] browsable assets)...
+[2022.02.11-18.55.14:625][119]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/InfiniteMatrix/Meshes/HealthPack_roughness.HealthPack_roughness]
+[2022.02.11-18.55.14:625][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Meshes/HealthPack_roughness]
+[2022.02.11-18.55.14:630][119]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/HealthPack_roughness_Auto3E61432CE40093D92A16C6AA29DEE0933.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Meshes/HealthPack_roughness_Auto3.uasset'
+[2022.02.11-18.55.14:630][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Meshes/HealthPack] ([1] browsable assets)...
+[2022.02.11-18.55.14:638][119]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/InfiniteMatrix/Meshes/HealthPack.HealthPack]
+[2022.02.11-18.55.14:638][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Meshes/HealthPack]
+[2022.02.11-18.55.14:645][119]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/HealthPack_Auto3B9B99346404D4779092C678CCFC93242.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Meshes/HealthPack_Auto3.uasset'
+[2022.02.11-18.55.14:646][119]LogFileHelpers: Auto-saving content packages took 0.086
+[2022.02.11-18.55.19:387][576]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/WorldMovementGrid: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/WorldMovementGrid' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.19:387][576]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/GridMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/GridMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.19:387][576]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/HeatmapMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/HeatmapMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.20:729][719]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/GradientMap_Multi_Example.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/GradientMap_Multi_Example.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.20:817][729]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/Gradients/Gradient_Star.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/Gradients/Gradient_Star.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.21:294][785]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/Gradients/Gradient_Radial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/Gradients/Gradient_Radial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.22:160][878]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/Gradients/Gradient_Linear.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/Gradients/Gradient_Linear.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.31:900][836]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/GeomMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/GeomMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.31:900][836]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/GizmoMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/GizmoMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.31:900][836]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/Gradients: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/Gradients' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.31:900][836]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/GradientMap_Multi_Example.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/GradientMap_Multi_Example.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.31:901][836]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/GridMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/GridMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.31:901][836]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.34:133][ 77]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.36:146][315]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/HeatmapMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/HeatmapMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.36:183][319]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/HelpActorMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/HelpActorMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.38:238][562]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/HelpFlatColour.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/HelpFlatColour.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.38:349][575]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/HelpFlatColour_Blk_Inst.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/HelpFlatColour_Blk_Inst.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.51:087][920]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/HeatmapMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/HeatmapMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.51:087][920]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.52:340][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/HighResScreenshot.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/HighResScreenshot.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.52:401][ 70]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.53:166][161]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/HighResScreenshotMask.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/HighResScreenshotMask.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.53:195][164]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.53:229][167]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Inst.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Inst.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.54:225][286]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Mat.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Mat.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.54:279][292]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/Utilities/ImageReflectionPreview.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/Utilities/ImageReflectionPreview.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.57:490][671]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/GeometryCollection/InMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/GeometryCollection/InMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.57:537][676]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/UI/KeyDiskMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/UI/KeyDiskMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.57:564][679]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/UI/KeyMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/UI/KeyMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.57:599][683]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources/Landscape_Heightmap_To_RenderTarget2D.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources/Landscape_Heightmap_To_RenderTarget2D.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.55.57:659][690]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape_Material.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape_Material.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.03:140][239]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/UI/KeyMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/UI/KeyMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.03:140][239]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources/Landscape_Heightmap_To_RenderTarget2D.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources/Landscape_Heightmap_To_RenderTarget2D.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.03:140][239]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape_Material.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape_Material.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.04:030][342]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_UnderMat.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_UnderMat.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.04:058][345]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources/LandscapeLayerUsageMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources/LandscapeLayerUsageMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.04:086][348]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources/LandscapeLightingMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources/LandscapeLightingMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.04:682][414]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.04:722][418]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/LaserPointer: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/LaserPointer' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.04:742][420]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources/LayerVisMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources/LayerVisMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.04:780][424]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.04:817][428]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.07:429][719]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/M_DebugSphereBounds_01.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/M_DebugSphereBounds_01.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.08:056][793]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/M_DebugSphereBounds_01_Inst.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/M_DebugSphereBounds_01_Inst.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.08:067][794]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.08:079][795]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color_0-0-127.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color_0-0-127.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.08:103][797]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color_127-127-0.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color_127-127-0.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.08:115][798]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Constant.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Constant.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.08:126][799]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/Devices/M_EngineLogo.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/Devices/M_EngineLogo.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.08:136][800]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Engine_MI_Shaders/M_ES_Phong_Masked_Master_1sided.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Engine_MI_Shaders/M_ES_Phong_Masked_Master_1sided.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.08:163][803]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Engine_MI_Shaders/M_ES_Phong_Masked_Master_2sided.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Engine_MI_Shaders/M_ES_Phong_Masked_Master_2sided.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.09:694][983]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Engine_MI_Shaders/Instances/M_ES_Phong_Opaque_INST_01.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Engine_MI_Shaders/Instances/M_ES_Phong_Opaque_INST_01.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.09:726][986]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Engine_MI_Shaders/M_ES_Phong_Opaque_Liquid_Master_.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Engine_MI_Shaders/M_ES_Phong_Opaque_Liquid_Master_.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.09:737][987]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Engine_MI_Shaders: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Engine_MI_Shaders' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.09:764][990]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Engine_MI_Shaders: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Engine_MI_Shaders' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.09:801][994]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Engine_MI_Shaders/M_ES_Unlit_Translucent_Liquid_Ma.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Engine_MI_Shaders/M_ES_Unlit_Translucent_Liquid_Ma.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.11:161][155]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_1sided_Master_Addi.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_1sided_Master_Addi.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.11:179][157]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_2sided_Master_Addi.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_2sided_Master_Addi.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.11:216][161]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_Master_01.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_Master_01.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.11:621][205]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_1sided_01.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_1sided_01.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.11:630][206]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipBookCounter_01.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipBookCounter_01.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.11:665][210]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipBookCounter_01_Inst.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipBookCounter_01_Inst.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.11:681][212]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipbookLocalCoordinateTest_01.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipbookLocalCoordinateTest_01.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.12:215][271]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipbookPreview_01.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipbookPreview_01.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.12:224][272]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipbookPreview_01_Inst.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_FlipbookPreview_01_Inst.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.12:260][276]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.12:289][279]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Graph_Inputs.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Graph_Inputs.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.12:786][338]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.12:847][345]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Imposters/M_ImposterTest_01.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Imposters/M_ImposterTest_01.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.12:907][352]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Imposters/M_ImposterTest_01_Inst.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Imposters/M_ImposterTest_01_Inst.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.13:942][461]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Imposters/M_ImposterTest_01_Inst_SingleAxis.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Imposters/M_ImposterTest_01_Inst_SingleAxis.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.13:964][463]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.13:986][465]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/LaserPointer/M_LaserPointer-Core.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/LaserPointer/M_LaserPointer-Core.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.13:996][466]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/LaserPointer/M_LaserPointer-Outer.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/LaserPointer/M_LaserPointer-Outer.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.14:024][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.14:799][561]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_Afternoon.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_Afternoon.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.14:835][565]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_Daytime.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_Daytime.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.14:896][572]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER02.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER02.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.16:690][786]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER022.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER022.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.16:731][791]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER_UE4.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER_UE4.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.16:765][795]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_Morning.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_Morning.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.16:790][798]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_Morning_UE4.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_Morning_UE4.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.16:824][802]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_Night.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_Night.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.18:001][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/M_RadiusDebugTranslucent.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/M_RadiusDebugTranslucent.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.18:029][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/M_RenderCustomHeightmap_01.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/M_RenderCustomHeightmap_01.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.18:070][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.18:089][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_RenderMotionVectors_Applied_Imposter.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_RenderMotionVectors_Applied_Imposter.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.18:120][953]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_RenderMotionVectors_Inst.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_RenderMotionVectors_Inst.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.18:146][956]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_RenderMotionVectors_StartPositions.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/Flipbooks/M_RenderMotionVectors_StartPositions.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.18:814][ 26]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/M_RenderNormalizedDepth_01.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/M_RenderNormalizedDepth_01.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.18:848][ 30]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/M_RenderNormalizedDepth_01_Inst.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/ArtTools/RenderToTexture/Materials/M_RenderNormalizedDepth_01_Inst.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.21:357][327]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.27:274][922]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/PerfTricks/VertexColorModulateTransition.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/PerfTricks/VertexColorModulateTransition.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.27:274][922]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.34:764][811]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.34:764][811]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.34:764][811]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.34:764][811]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/BufferVisualization: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.34:764][811]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.41:098][560]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.41:098][560]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.41:098][560]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.41:098][560]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/BufferVisualization: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.41:098][560]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.42:066][676]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/BufferVisualization/Metallic.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/BufferVisualization/Metallic.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.42:066][676]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/TemplateResources: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/TemplateResources' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.48:675][439]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.48:675][439]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.48:675][439]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.48:675][439]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/BufferVisualization: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.48:675][439]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.50:675][651]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/UI/ArrowMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/VREditor/UI/ArrowMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.50:719][656]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMeshes/BackgroundMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMeshes/BackgroundMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.50:757][660]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/BufferVisualization/BaseColor.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/BufferVisualization/BaseColor.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.50:785][663]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.51:472][738]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Materials/BasicAsset01.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Materials/BasicAsset01.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.51:504][741]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Materials/BasicAsset02.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Materials/BasicAsset02.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.51:522][743]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.51:590][750]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.52:480][856]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Materials/BasicTemplateMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/MapTemplates/Materials/BasicTemplateMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.52:506][859]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.52:532][862]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/BlinkingCaret.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/BlinkingCaret.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.52:560][865]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.56.52:585][868]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/Cloth/CameraLitDoubleSided.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/Cloth/CameraLitDoubleSided.uasset' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-18.57.03:467][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Meshes/HealthPack" FILE="D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset" SILENT=true
+[2022.02.11-18.57.03:473][ 15]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/HealthPack56FC8C644F83F8C4573DF494DC48319B.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset'
+[2022.02.11-18.57.03:628][ 15]AssetCheck: New page: Asset Save: HealthPack
+[2022.02.11-18.57.03:628][ 15]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/HealthPack.HealthPack
+[2022.02.11-18.58.38:156][454]LogSlate: Window 'Delete Component' being destroyed
+[2022.02.11-18.58.43:702][934]LogActorFactory: Actor Factory created HealthPack
+[2022.02.11-18.58.56:815][130]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-19.05.05:572][618]BlueprintLog: New page: Compile BP_Tunnel
+[2022.02.11-19.05.05:633][618]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2022.02.11-19.05.32:817][397]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2022.02.11-19.05.32:828][397]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/TutorialMap_Auto4C3076E3044F3E869B126B38767C4BA03.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto4.umap'
+[2022.02.11-19.05.32:829][397]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.046
+[2022.02.11-19.05.32:829][397]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2022.02.11-19.05.32:829][397]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([2] browsable assets)...
+[2022.02.11-19.05.32:838][397]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2022.02.11-19.05.32:838][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2022.02.11-19.05.32:860][397]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_Tunnel_Auto41650C34F424036F39C4DB393A4AC2B75.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto4.uasset'
+[2022.02.11-19.05.32:860][397]LogFileHelpers: Auto-saving content packages took 0.031
+[2022.02.11-19.11.05:086][221]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.11-19.11.05:088][221]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.02.11-19.11.12:762][221]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.11-19.11.12:768][221]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.11-19.11.12:783][221]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.11-19.11.19:679][856]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_HealthPack
+[2022.02.11-19.11.19:756][856]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.11-19.11.35:885][967]LogSlate: Window 'Delete Component' being destroyed
+[2022.02.11-19.11.35:890][967]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2022.02.11-19.11.35:890][967]LogBlueprint: Error: [AssetLog]  (no disk path found): [Compiler] The component that  On Component Begin Overlap (HealthPack)  was bound to has been deleted! This node is no longer valid
+[2022.02.11-19.11.35:890][967]BlueprintLog: New page: Removed Owner of Component Bound Event
+[2022.02.11-19.11.35:890][967]BlueprintLog: Error: The component that  On Component Begin Overlap (HealthPack)  was bound to has been deleted! This node is no longer valid
+[2022.02.11-19.11.42:783][615]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+[2022.02.11-19.11.57:824][ 49]BlueprintLog: New page: Compile BP_Tunnel
+[2022.02.11-19.11.57:890][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2022.02.11-19.12.13:207][533]BlueprintLog: New page: Compile BP_HealthPack
+[2022.02.11-19.12.13:262][533]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2022.02.11-19.12.19:670][221]LogEditorTransaction: Undo Move Nodes
+[2022.02.11-19.13.23:922][772]BlueprintLog: New page: Compile BP_HealthPack
+[2022.02.11-19.13.23:977][772]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2022.02.11-19.13.45:267][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_HealthPack" FILE="D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset" SILENT=true
+[2022.02.11-19.13.45:279][ 11]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_HealthPack73698133439AE78E18035DB175EB363B.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset'
+[2022.02.11-19.13.45:449][ 11]AssetCheck: New page: Asset Save: BP_HealthPack
+[2022.02.11-19.13.45:449][ 11]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+[2022.02.11-19.15.39:251][715]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.11-19.15.39:269][715]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.11-19.16.47:442][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2022.02.11-19.16.47:452][895]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/TutorialMap_Auto5BC396FC84943789205B8EE9B9E098AD8.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto5.umap'
+[2022.02.11-19.16.47:452][895]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.048
+[2022.02.11-19.16.47:452][895]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2022.02.11-19.16.47:453][895]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([2] browsable assets)...
+[2022.02.11-19.16.47:453][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2022.02.11-19.16.47:467][895]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_TunnelSpawner_Auto5451B5D1C46B93935103C2AA5CF8DB5D7.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto5.uasset'
+[2022.02.11-19.16.47:468][895]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([2] browsable assets)...
+[2022.02.11-19.16.47:492][895]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2022.02.11-19.16.47:492][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2022.02.11-19.16.47:508][895]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_Tunnel_Auto5171BA2A84AA5D1C21FE895BBB3694967.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto5.uasset'
+[2022.02.11-19.16.47:508][895]LogFileHelpers: Auto-saving content packages took 0.056
+[2022.02.11-19.24.13:772][692]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2022.02.11-19.24.13:836][692]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.02.11-19.24.15:120][822]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.11-19.24.15:124][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-19.24.15:125][822]PIE: New page: PIE session: TutorialMap (Feb 11, 2022, 7:24:15 AM)
+[2022.02.11-19.24.15:125][822]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-19.24.15:126][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001410s)
+[2022.02.11-19.24.15:127][822]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.11-19.24.15:127][822]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2022.02.11-19.24.15:127][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002469s)
+[2022.02.11-19.24.15:163][822]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2022.02.11-19.24.15:164][822]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.11-19.24.15:164][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-19.24.15:164][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-19.24.15:164][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-19.24.15:164][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-19.24.15:164][822]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-19.24.15:164][822]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-19.24.15:164][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-19.24.15:164][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-19.24.15:165][822]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-19.24.15:165][822]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-19.24.15:165][822]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-19.24.15:165][822]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-19.24.15:167][822]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-19.24.15:167][822]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-19.24.15:195][822]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.11-19.24.15:196][822]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-19.24.15:196][822]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-19.24.15:196][822]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-19.24.15:196][822]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-19.24.15:196][822]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-19.24.15:196][822]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-19.24.15:197][822]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-19.24.15:197][822]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-19.24.15:197][822]LogInit: FAudioDevice initialized.
+[2022.02.11-19.24.15:197][822]LogAudio: Display: Audio Device (ID: 3) registered with world 'TutorialMap'.
+[2022.02.11-19.24.15:240][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-19.24.15:240][822]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.11-19.24.15:241][822]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.02.11-13.24.15
+[2022.02.11-19.24.15:241][822]LogWorld: Bringing up level for play took: 0.000355
+[2022.02.11-19.24.15:241][822]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.02.11-19.24.15:254][822]PIE: Server logged in
+[2022.02.11-19.24.15:255][822]PIE: Play in editor total start time 0.132 seconds.
+[2022.02.11-19.24.36:328][158]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.11-19.24.36:328][158]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.02.11-19.24.37:123][248]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.02.11-19.24.37:123][248]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.02.11-19.24.54:591][191]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.11-19.24.54:591][191]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.02.11-19.24.55:849][331]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.02.11-19.24.55:849][331]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.02.11-19.25.17:061][704]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.11-19.25.17:061][704]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.02.11-19.25.20:135][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-19.25.20:135][ 22]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-19.25.20:136][ 22]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.11-19.25.20:138][ 22]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-19.25.20:138][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.25.20:147][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-19.25.20:153][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.25.20:184][ 22]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.11-19.25.20:184][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-19.25.20:185][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-19.25.20:193][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.02.11-19.25.20:213][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.02.11-19.26.26:564][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Meshes/HealthPack" FILE="D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset" SILENT=true
+[2022.02.11-19.26.26:571][929]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/HealthPack7B686B6941773DC13CEF9CB91F75A563.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset'
+[2022.02.11-19.26.26:584][929]AssetCheck: New page: Asset Save: HealthPack
+[2022.02.11-19.26.26:584][929]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/HealthPack.HealthPack
+[2022.02.11-19.26.38:967][160]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.11-19.26.38:972][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-19.26.38:972][160]PIE: New page: PIE session: TutorialMap (Feb 11, 2022, 7:26:38 AM)
+[2022.02.11-19.26.38:972][160]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-19.26.38:974][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001357s)
+[2022.02.11-19.26.38:974][160]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.11-19.26.38:975][160]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2022.02.11-19.26.38:975][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002272s)
+[2022.02.11-19.26.39:010][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.02.11-19.26.39:013][160]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.02.11-19.26.39:013][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-19.26.39:013][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-19.26.39:013][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-19.26.39:013][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-19.26.39:013][160]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-19.26.39:013][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-19.26.39:013][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-19.26.39:013][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-19.26.39:014][160]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-19.26.39:014][160]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-19.26.39:014][160]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-19.26.39:014][160]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-19.26.39:016][160]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-19.26.39:016][160]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-19.26.39:044][160]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.11-19.26.39:044][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-19.26.39:044][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-19.26.39:044][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-19.26.39:044][160]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-19.26.39:044][160]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-19.26.39:044][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-19.26.39:045][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-19.26.39:045][160]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-19.26.39:045][160]LogInit: FAudioDevice initialized.
+[2022.02.11-19.26.39:045][160]LogAudio: Display: Audio Device (ID: 4) registered with world 'TutorialMap'.
+[2022.02.11-19.26.39:091][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-19.26.39:091][160]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.11-19.26.39:092][160]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.02.11-13.26.39
+[2022.02.11-19.26.39:092][160]LogWorld: Bringing up level for play took: 0.000372
+[2022.02.11-19.26.39:092][160]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.02.11-19.26.39:100][160]PIE: Server logged in
+[2022.02.11-19.26.39:102][160]PIE: Play in editor total start time 0.13 seconds.
+[2022.02.11-19.26.57:676][178]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.11-19.26.57:676][178]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.02.11-19.26.58:697][290]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.02.11-19.26.58:697][290]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.02.11-19.27.26:161][303]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.11-19.27.26:161][303]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.02.11-19.27.29:246][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-19.27.29:246][630]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-19.27.29:246][630]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.11-19.27.29:248][630]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-19.27.29:248][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.27.29:257][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-19.27.29:263][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.27.29:294][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-19.27.29:295][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-19.27.29:303][630]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.02.11-19.27.29:322][631]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.02.11-19.28.42:976][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.02.11-19.28.42:987][249]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/TutorialMap_Auto6153C83D94F2A5EE5EAE521820305D835.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto6.umap'
+[2022.02.11-19.28.42:987][249]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.046
+[2022.02.11-19.28.42:987][249]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2022.02.11-19.28.42:988][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([2] browsable assets)...
+[2022.02.11-19.28.42:988][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2022.02.11-19.28.43:006][249]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_TunnelSpawner_Auto65BC566EA49C1B4FCFBAF5AAD831E8247.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto6.uasset'
+[2022.02.11-19.28.43:007][249]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([2] browsable assets)...
+[2022.02.11-19.28.43:014][249]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2022.02.11-19.28.43:014][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2022.02.11-19.28.43:030][249]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_Tunnel_Auto66D3FEFF440B425A76110C5B11A031F05.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto6.uasset'
+[2022.02.11-19.28.43:030][249]LogFileHelpers: Auto-saving content packages took 0.043
+[2022.02.11-19.28.44:358][383]LogSlate: Window 'Message Log' being destroyed
+[2022.02.11-19.28.44:363][383]LogSlate: Window 'Message Log' being destroyed
+[2022.02.11-19.29.45:786][ 73]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-19.30.34:256][ 13]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_15:PersistentLevel.BP_HealthPack_C_0.StaticMeshComponent0) Not currently registered. Aborting.
+[2022.02.11-19.30.34:256][ 13]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_16:PersistentLevel.BP_HealthPack_C_2.StaticMeshComponent0) Not currently registered. Aborting.
+[2022.02.11-19.30.44:126][ 25]BlueprintLog: New page: Compile BP_HealthPack
+[2022.02.11-19.30.44:194][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.02.11-19.30.45:054][109]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.11-19.30.45:059][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-19.30.45:059][109]PIE: New page: PIE session: TutorialMap (Feb 11, 2022, 7:30:45 AM)
+[2022.02.11-19.30.45:059][109]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-19.30.45:060][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001331s)
+[2022.02.11-19.30.45:061][109]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.11-19.30.45:061][109]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2022.02.11-19.30.45:061][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002258s)
+[2022.02.11-19.30.45:096][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2022.02.11-19.30.45:098][109]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.02.11-19.30.45:098][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-19.30.45:098][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-19.30.45:098][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-19.30.45:098][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-19.30.45:098][109]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-19.30.45:098][109]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-19.30.45:098][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-19.30.45:098][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-19.30.45:098][109]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-19.30.45:098][109]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-19.30.45:098][109]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-19.30.45:098][109]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-19.30.45:100][109]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-19.30.45:100][109]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-19.30.45:128][109]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.11-19.30.45:128][109]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-19.30.45:128][109]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-19.30.45:128][109]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-19.30.45:129][109]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-19.30.45:129][109]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-19.30.45:129][109]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-19.30.45:130][109]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-19.30.45:130][109]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-19.30.45:130][109]LogInit: FAudioDevice initialized.
+[2022.02.11-19.30.45:130][109]LogAudio: Display: Audio Device (ID: 5) registered with world 'TutorialMap'.
+[2022.02.11-19.30.45:182][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-19.30.45:182][109]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.11-19.30.45:182][109]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.02.11-13.30.45
+[2022.02.11-19.30.45:182][109]LogWorld: Bringing up level for play took: 0.000322
+[2022.02.11-19.30.45:183][109]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.02.11-19.30.45:189][109]PIE: Server logged in
+[2022.02.11-19.30.45:190][109]PIE: Play in editor total start time 0.131 seconds.
+[2022.02.11-19.31.00:020][879]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.11-19.31.00:020][879]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.02.11-19.31.00:854][979]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.02.11-19.31.00:854][979]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.02.11-19.31.28:313][267]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.11-19.31.28:313][267]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.02.11-19.31.30:180][491]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.11-19.31.30:185][491]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-19.31.30:185][491]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-19.31.30:186][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.31.30:193][491]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-19.31.30:200][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.31.30:231][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-19.31.30:232][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-19.31.30:240][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.02.11-19.31.30:281][494]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.02.11-19.31.52:254][555]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-19.32.35:242][244]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_01.SM_Hole_01
+[2022.02.11-19.32.55:938][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Meshes/HealthPack" FILE="D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset" SILENT=true
+[2022.02.11-19.32.55:944][753]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/HealthPackCD85F5544963059368251CB419A252AC.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset'
+[2022.02.11-19.32.55:956][753]AssetCheck: New page: Asset Save: HealthPack
+[2022.02.11-19.32.55:956][753]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/HealthPack.HealthPack
+[2022.02.11-19.33.00:402][ 82]BlueprintLog: New page: Compile BP_HealthPack
+[2022.02.11-19.33.00:458][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.02.11-19.33.04:387][350]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.11-19.33.04:391][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-19.33.04:391][350]PIE: New page: PIE session: TutorialMap (Feb 11, 2022, 7:33:04 AM)
+[2022.02.11-19.33.04:391][350]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-19.33.04:393][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001310s)
+[2022.02.11-19.33.04:393][350]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.11-19.33.04:394][350]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2022.02.11-19.33.04:394][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002152s)
+[2022.02.11-19.33.04:429][350]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2022.02.11-19.33.04:431][350]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.02.11-19.33.04:431][350]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-19.33.04:431][350]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-19.33.04:431][350]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-19.33.04:431][350]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-19.33.04:431][350]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-19.33.04:431][350]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-19.33.04:431][350]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-19.33.04:431][350]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-19.33.04:432][350]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-19.33.04:432][350]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-19.33.04:432][350]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-19.33.04:432][350]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-19.33.04:434][350]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-19.33.04:434][350]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-19.33.04:463][350]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.11-19.33.04:464][350]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-19.33.04:464][350]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-19.33.04:464][350]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-19.33.04:464][350]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-19.33.04:464][350]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-19.33.04:464][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-19.33.04:465][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-19.33.04:465][350]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-19.33.04:465][350]LogInit: FAudioDevice initialized.
+[2022.02.11-19.33.04:465][350]LogAudio: Display: Audio Device (ID: 6) registered with world 'TutorialMap'.
+[2022.02.11-19.33.04:515][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-19.33.04:515][350]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.11-19.33.04:516][350]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.02.11-13.33.04
+[2022.02.11-19.33.04:516][350]LogWorld: Bringing up level for play took: 0.000436
+[2022.02.11-19.33.04:516][350]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.02.11-19.33.04:523][350]PIE: Server logged in
+[2022.02.11-19.33.04:525][350]PIE: Play in editor total start time 0.134 seconds.
+[2022.02.11-19.33.24:353][860]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.11-19.33.24:353][860]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.02.11-19.33.25:911][ 21]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.02.11-19.33.25:911][ 21]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.02.11-19.34.02:125][727]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.11-19.34.02:125][727]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.02.11-19.34.03:602][878]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.02.11-19.34.03:602][878]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.02.11-19.34.21:068][665]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.11-19.34.21:068][665]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.02.11-19.34.22:696][831]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.11-19.34.22:706][831]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-19.34.22:735][831]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-19.34.22:735][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.34.22:747][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-19.34.22:753][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.34.22:784][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.11-19.34.22:785][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-19.34.22:785][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-19.34.22:793][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.02.11-19.34.23:039][832]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.02.11-19.36.43:374][427]BlueprintLog: New page: Compile BP_HealthPack
+[2022.02.11-19.36.43:429][427]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.02.11-19.36.45:578][588]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.11-19.36.45:583][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-19.36.45:583][588]PIE: New page: PIE session: TutorialMap (Feb 11, 2022, 7:36:45 AM)
+[2022.02.11-19.36.45:584][588]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-19.36.45:585][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001320s)
+[2022.02.11-19.36.45:586][588]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.11-19.36.45:586][588]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2022.02.11-19.36.45:586][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002185s)
+[2022.02.11-19.36.45:621][588]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.02.11-19.36.45:622][588]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.02.11-19.36.45:622][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-19.36.45:622][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-19.36.45:622][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-19.36.45:622][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-19.36.45:622][588]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-19.36.45:622][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-19.36.45:622][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-19.36.45:622][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-19.36.45:622][588]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-19.36.45:622][588]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-19.36.45:622][588]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-19.36.45:622][588]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-19.36.45:625][588]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-19.36.45:625][588]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-19.36.45:652][588]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.11-19.36.45:653][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-19.36.45:653][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-19.36.45:653][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-19.36.45:653][588]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-19.36.45:653][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-19.36.45:653][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-19.36.45:654][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-19.36.45:654][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-19.36.45:654][588]LogInit: FAudioDevice initialized.
+[2022.02.11-19.36.45:654][588]LogAudio: Display: Audio Device (ID: 7) registered with world 'TutorialMap'.
+[2022.02.11-19.36.45:681][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-19.36.45:681][588]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.11-19.36.45:681][588]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.02.11-13.36.45
+[2022.02.11-19.36.45:682][588]LogWorld: Bringing up level for play took: 0.000339
+[2022.02.11-19.36.45:682][588]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.02.11-19.36.45:689][588]PIE: Server logged in
+[2022.02.11-19.36.45:691][588]PIE: Play in editor total start time 0.108 seconds.
+[2022.02.11-19.37.13:036][355]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.11-19.37.13:037][355]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.02.11-19.37.16:906][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-19.37.16:906][738]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-19.37.16:907][738]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.11-19.37.16:909][738]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-19.37.16:909][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.37.16:919][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-19.37.16:925][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.37.16:957][738]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.11-19.37.16:957][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-19.37.16:958][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-19.37.16:966][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.02.11-19.37.16:986][739]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.02.11-19.41.57:716][803]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.11-19.41.57:721][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-19.41.57:721][803]PIE: New page: PIE session: TutorialMap (Feb 11, 2022, 7:41:57 AM)
+[2022.02.11-19.41.57:721][803]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-19.41.57:723][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001552s)
+[2022.02.11-19.41.57:724][803]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.11-19.41.57:724][803]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2022.02.11-19.41.57:724][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002540s)
+[2022.02.11-19.41.57:761][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.02.11-19.41.57:765][803]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.02.11-19.41.57:765][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-19.41.57:765][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-19.41.57:765][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-19.41.57:765][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-19.41.57:765][803]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-19.41.57:765][803]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-19.41.57:765][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-19.41.57:765][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-19.41.57:765][803]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-19.41.57:765][803]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-19.41.57:766][803]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-19.41.57:766][803]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-19.41.57:768][803]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-19.41.57:768][803]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-19.41.57:795][803]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.11-19.41.57:796][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-19.41.57:796][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-19.41.57:796][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-19.41.57:796][803]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-19.41.57:796][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-19.41.57:796][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-19.41.57:797][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-19.41.57:797][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-19.41.57:797][803]LogInit: FAudioDevice initialized.
+[2022.02.11-19.41.57:797][803]LogAudio: Display: Audio Device (ID: 8) registered with world 'TutorialMap'.
+[2022.02.11-19.41.57:828][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-19.41.57:828][803]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.11-19.41.57:829][803]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.02.11-13.41.57
+[2022.02.11-19.41.57:829][803]LogWorld: Bringing up level for play took: 0.000409
+[2022.02.11-19.41.57:829][803]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.02.11-19.41.57:836][803]PIE: Server logged in
+[2022.02.11-19.41.57:837][803]PIE: Play in editor total start time 0.116 seconds.
+[2022.02.11-19.42.22:677][716]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.11-19.42.22:677][716]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.02.11-19.42.33:667][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-19.42.33:667][938]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-19.42.33:667][938]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.11-19.42.33:669][938]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-19.42.33:669][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.42.33:678][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-19.42.33:684][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.42.33:715][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.11-19.42.33:716][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-19.42.33:717][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-19.42.33:724][938]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.02.11-19.42.33:744][939]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.02.11-19.43.59:428][635]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-19.43.59:428][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.44.47:457][ 47]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-19.44.47:457][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.46.51:548][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.02.11-19.46.51:562][541]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/TutorialMap_Auto713ACDC744C7EA4D0248D488E2F4477D6.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto7.umap'
+[2022.02.11-19.46.51:563][541]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.057
+[2022.02.11-19.46.51:563][541]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2022.02.11-19.46.51:563][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([2] browsable assets)...
+[2022.02.11-19.46.51:563][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2022.02.11-19.46.51:581][541]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_TunnelSpawner_Auto7958A2450495FED030D02A999C58056B2.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto7.uasset'
+[2022.02.11-19.46.51:582][541]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack] ([2] browsable assets)...
+[2022.02.11-19.46.51:611][541]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack]
+[2022.02.11-19.46.51:611][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack]
+[2022.02.11-19.46.51:623][541]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_HealthPack_Auto70EDFEB674212B34D043698B3300193FB.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_HealthPack_Auto7.uasset'
+[2022.02.11-19.46.51:624][541]LogFileHelpers: Auto-saving content packages took 0.061
+[2022.02.11-19.52.59:716][870]BlueprintLog: New page: Compile BP_HealthPack
+[2022.02.11-19.52.59:773][870]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.02.11-19.53.00:674][959]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.11-19.53.00:679][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-19.53.00:679][959]PIE: New page: PIE session: TutorialMap (Feb 11, 2022, 7:53:00 AM)
+[2022.02.11-19.53.00:679][959]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-19.53.00:680][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001398s)
+[2022.02.11-19.53.00:681][959]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.11-19.53.00:681][959]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2022.02.11-19.53.00:681][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002292s)
+[2022.02.11-19.53.00:716][959]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2022.02.11-19.53.00:717][959]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.02.11-19.53.00:717][959]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-19.53.00:717][959]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-19.53.00:717][959]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-19.53.00:717][959]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-19.53.00:717][959]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-19.53.00:717][959]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-19.53.00:717][959]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-19.53.00:717][959]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-19.53.00:717][959]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-19.53.00:717][959]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-19.53.00:717][959]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-19.53.00:717][959]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-19.53.00:720][959]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-19.53.00:720][959]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-19.53.00:748][959]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.11-19.53.00:748][959]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-19.53.00:748][959]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-19.53.00:748][959]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-19.53.00:749][959]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-19.53.00:749][959]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-19.53.00:749][959]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-19.53.00:749][959]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-19.53.00:749][959]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-19.53.00:749][959]LogInit: FAudioDevice initialized.
+[2022.02.11-19.53.00:749][959]LogAudio: Display: Audio Device (ID: 9) registered with world 'TutorialMap'.
+[2022.02.11-19.53.00:803][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-19.53.00:803][959]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.11-19.53.00:804][959]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.02.11-13.53.00
+[2022.02.11-19.53.00:804][959]LogWorld: Bringing up level for play took: 0.000347
+[2022.02.11-19.53.00:804][959]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.02.11-19.53.00:811][959]PIE: Server logged in
+[2022.02.11-19.53.00:812][959]PIE: Play in editor total start time 0.134 seconds.
+[2022.02.11-19.53.14:388][413]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.11-19.53.14:388][413]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.02.11-19.53.21:909][217]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.11-19.53.21:915][217]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-19.53.21:937][217]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-19.53.21:937][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.53.21:945][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-19.53.21:951][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-19.53.21:982][217]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.11-19.53.21:982][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-19.53.21:983][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-19.53.21:990][217]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.02.11-19.53.22:012][218]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.02.11-20.01.59:644][ 50]BlueprintLog: New page: Compile BP_HealthPack
+[2022.02.11-20.01.59:647][ 50]LogBlueprint: Warning: [AssetLog] D:\CS498GD\Game-Dev\MP1\InfiniteMatrix\Content\InfiniteMatrix\Blueprints\BP_HealthPack.uasset: [Compiler] 'BP Player' does not inherit from 'Primitive Component' ( Cast To BP_Player  would always fail).
+[2022.02.11-20.01.59:702][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.02.11-20.02.08:280][986]BlueprintLog: New page: Compile BP_HealthPack
+[2022.02.11-20.02.08:335][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2022.02.11-20.03.02:096][493]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2022.02.11-20.03.02:106][493]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/TutorialMap_Auto8B3C5181E47D60B39EC5A23ACB3751373.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto8.umap'
+[2022.02.11-20.03.02:107][493]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.046
+[2022.02.11-20.03.02:107][493]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2022.02.11-20.03.02:107][493]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([2] browsable assets)...
+[2022.02.11-20.03.02:107][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2022.02.11-20.03.02:125][493]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_TunnelSpawner_Auto84D2D3F6F4587359B7991CCAB6F2F634C.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto8.uasset'
+[2022.02.11-20.03.02:126][493]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack] ([2] browsable assets)...
+[2022.02.11-20.03.02:155][493]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack]
+[2022.02.11-20.03.02:155][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack]
+[2022.02.11-20.03.02:168][493]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_HealthPack_Auto83EE266D84F46C5DEAFC1478FDC1DFB34.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_HealthPack_Auto8.uasset'
+[2022.02.11-20.03.02:168][493]LogFileHelpers: Auto-saving content packages took 0.061
+[2022.02.11-20.04.18:333][289]BlueprintLog: New page: Compile BP_HealthPack
+[2022.02.11-20.04.18:387][289]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.02.11-20.04.19:655][414]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.11-20.04.19:659][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-20.04.19:659][414]PIE: New page: PIE session: TutorialMap (Feb 11, 2022, 8:04:19 AM)
+[2022.02.11-20.04.19:659][414]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-20.04.19:661][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001317s)
+[2022.02.11-20.04.19:661][414]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.11-20.04.19:662][414]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2022.02.11-20.04.19:662][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002175s)
+[2022.02.11-20.04.19:697][414]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.02.11-20.04.19:697][414]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.02.11-20.04.19:697][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-20.04.19:697][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-20.04.19:697][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-20.04.19:697][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-20.04.19:697][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-20.04.19:697][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-20.04.19:697][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-20.04.19:697][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-20.04.19:698][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-20.04.19:698][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-20.04.19:698][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-20.04.19:698][414]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-20.04.19:700][414]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-20.04.19:700][414]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-20.04.19:739][414]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.11-20.04.19:740][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-20.04.19:740][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-20.04.19:740][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-20.04.19:740][414]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-20.04.19:740][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-20.04.19:740][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-20.04.19:741][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-20.04.19:741][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-20.04.19:741][414]LogInit: FAudioDevice initialized.
+[2022.02.11-20.04.19:741][414]LogAudio: Display: Audio Device (ID: 10) registered with world 'TutorialMap'.
+[2022.02.11-20.04.19:784][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-20.04.19:784][414]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.11-20.04.19:785][414]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.02.11-14.04.19
+[2022.02.11-20.04.19:785][414]LogWorld: Bringing up level for play took: 0.000373
+[2022.02.11-20.04.19:786][414]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.02.11-20.04.19:792][414]PIE: Server logged in
+[2022.02.11-20.04.19:794][414]PIE: Play in editor total start time 0.135 seconds.
+[2022.02.11-20.04.50:864][559]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.11-20.04.50:864][559]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.02.11-20.04.52:891][765]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.11-20.04.52:898][765]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-20.04.52:898][765]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-20.04.52:898][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-20.04.52:908][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-20.04.52:915][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-20.04.52:946][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-20.04.52:947][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-20.04.52:955][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.02.11-20.04.52:998][768]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.02.11-20.15.54:862][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.02.11-20.15.54:875][ 48]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/TutorialMap_Auto91B6E6F4E4DE8D8F6B33FD3BF9940B1A1.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto9.umap'
+[2022.02.11-20.15.54:876][ 48]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.052
+[2022.02.11-20.15.54:876][ 48]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2022.02.11-20.15.54:876][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([2] browsable assets)...
+[2022.02.11-20.15.54:876][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2022.02.11-20.15.54:894][ 48]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_TunnelSpawner_Auto9AD6C66F640767DAC2824F9AD42AC683A.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto9.uasset'
+[2022.02.11-20.15.54:895][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2022.02.11-20.15.54:895][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2022.02.11-20.15.54:920][ 48]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_Player_Auto94B73E0284D8C3D6DD29D09B6F1043F85.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto9.uasset'
+[2022.02.11-20.15.54:921][ 48]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack] ([2] browsable assets)...
+[2022.02.11-20.15.54:948][ 48]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack]
+[2022.02.11-20.15.54:948][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack]
+[2022.02.11-20.15.54:961][ 48]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_HealthPack_Auto90C9954014852E6E2B84836B90CFE5191.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_HealthPack_Auto9.uasset'
+[2022.02.11-20.15.54:961][ 48]LogFileHelpers: Auto-saving content packages took 0.085
+[2022.02.11-20.18.56:298][855]BlueprintLog: New page: Compile BP_Player
+[2022.02.11-20.18.56:362][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.02.11-20.18.57:173][933]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.11-20.18.57:178][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-20.18.57:178][933]PIE: New page: PIE session: TutorialMap (Feb 11, 2022, 8:18:57 AM)
+[2022.02.11-20.18.57:178][933]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-20.18.57:179][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001308s)
+[2022.02.11-20.18.57:180][933]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.11-20.18.57:180][933]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2022.02.11-20.18.57:180][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002173s)
+[2022.02.11-20.18.57:216][933]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2022.02.11-20.18.57:216][933]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.02.11-20.18.57:216][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-20.18.57:216][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-20.18.57:216][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-20.18.57:217][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-20.18.57:217][933]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-20.18.57:217][933]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-20.18.57:217][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-20.18.57:217][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-20.18.57:217][933]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-20.18.57:217][933]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-20.18.57:217][933]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-20.18.57:217][933]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-20.18.57:219][933]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-20.18.57:219][933]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-20.18.57:247][933]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.11-20.18.57:247][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-20.18.57:247][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-20.18.57:247][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-20.18.57:248][933]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-20.18.57:248][933]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-20.18.57:248][933]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-20.18.57:249][933]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-20.18.57:249][933]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-20.18.57:249][933]LogInit: FAudioDevice initialized.
+[2022.02.11-20.18.57:249][933]LogAudio: Display: Audio Device (ID: 11) registered with world 'TutorialMap'.
+[2022.02.11-20.18.57:289][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-20.18.57:290][933]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.11-20.18.57:290][933]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.02.11-14.18.57
+[2022.02.11-20.18.57:290][933]LogWorld: Bringing up level for play took: 0.000322
+[2022.02.11-20.18.57:290][933]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.02.11-20.18.57:297][933]PIE: Server logged in
+[2022.02.11-20.18.57:299][933]PIE: Play in editor total start time 0.122 seconds.
+[2022.02.11-20.19.19:989][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-20.19.19:990][584]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-20.19.19:990][584]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.11-20.19.19:995][584]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-20.19.19:995][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-20.19.20:005][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-20.19.20:011][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-20.19.20:044][584]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.11-20.19.20:044][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-20.19.20:045][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-20.19.20:052][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.02.11-20.19.20:071][585]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.02.11-20.20.22:840][269]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/HealthPack.HealthPack
+[2022.02.11-20.20.53:352][413]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_01.SM_Hole_01
+[2022.02.11-20.21.23:945][979]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.23.07:257][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Meshes/SM_Hole_01" FILE="D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/SM_Hole_01.uasset" SILENT=true
+[2022.02.11-20.23.07:265][926]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/SM_Hole_019BF24C8F4B5DF3FD25F3F3A3D0060A84.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/SM_Hole_01.uasset'
+[2022.02.11-20.23.07:276][926]AssetCheck: New page: Asset Save: SM_Hole_01
+[2022.02.11-20.23.07:276][926]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_01.SM_Hole_01
+[2022.02.11-20.23.11:340][239]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.11-20.23.11:345][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-20.23.11:345][239]PIE: New page: PIE session: TutorialMap (Feb 11, 2022, 8:23:11 AM)
+[2022.02.11-20.23.11:345][239]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-20.23.11:346][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001351s)
+[2022.02.11-20.23.11:347][239]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.11-20.23.11:347][239]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2022.02.11-20.23.11:347][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002287s)
+[2022.02.11-20.23.11:383][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.02.11-20.23.11:388][239]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.02.11-20.23.11:389][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-20.23.11:389][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-20.23.11:389][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-20.23.11:389][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-20.23.11:389][239]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-20.23.11:389][239]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-20.23.11:389][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-20.23.11:389][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-20.23.11:389][239]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-20.23.11:389][239]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-20.23.11:389][239]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-20.23.11:389][239]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-20.23.11:391][239]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-20.23.11:391][239]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-20.23.11:418][239]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.11-20.23.11:419][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-20.23.11:419][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-20.23.11:419][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-20.23.11:419][239]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-20.23.11:419][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-20.23.11:419][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-20.23.11:420][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-20.23.11:420][239]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-20.23.11:420][239]LogInit: FAudioDevice initialized.
+[2022.02.11-20.23.11:420][239]LogAudio: Display: Audio Device (ID: 12) registered with world 'TutorialMap'.
+[2022.02.11-20.23.11:466][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-20.23.11:466][239]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.11-20.23.11:467][239]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.02.11-14.23.11
+[2022.02.11-20.23.11:467][239]LogWorld: Bringing up level for play took: 0.000322
+[2022.02.11-20.23.11:467][239]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.02.11-20.23.11:473][239]PIE: Server logged in
+[2022.02.11-20.23.11:475][239]PIE: Play in editor total start time 0.13 seconds.
+[2022.02.11-20.23.28:670][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-20.23.28:670][ 60]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-20.23.28:671][ 60]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.11-20.23.28:675][ 60]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-20.23.28:676][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-20.23.28:682][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-20.23.28:688][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-20.23.28:720][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.11-20.23.28:720][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-20.23.28:721][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-20.23.28:728][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.02.11-20.23.28:748][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.02.11-20.23.57:018][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Meshes/HealthPack" FILE="D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset" SILENT=true
+[2022.02.11-20.23.57:021][375]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/HealthPack1C3100CA448E04B0AD8E1DA30944E368.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset'
+[2022.02.11-20.23.57:032][375]AssetCheck: New page: Asset Save: HealthPack
+[2022.02.11-20.23.57:032][375]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/HealthPack.HealthPack
+[2022.02.11-20.24.16:242][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Meshes/HealthPack" FILE="D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset" SILENT=true
+[2022.02.11-20.24.16:245][838]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/HealthPack0BE7A7D447F4AFE53C8CDDBF40BFD01C.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset'
+[2022.02.11-20.24.16:255][838]AssetCheck: New page: Asset Save: HealthPack
+[2022.02.11-20.24.16:255][838]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/HealthPack.HealthPack
+[2022.02.11-20.25.00:257][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Meshes/HealthPack" FILE="D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset" SILENT=true
+[2022.02.11-20.25.00:260][167]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/HealthPack26850EA84F7DB23CAD1298BF3A399A12.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset'
+[2022.02.11-20.25.00:274][167]AssetCheck: New page: Asset Save: HealthPack
+[2022.02.11-20.25.00:274][167]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/HealthPack.HealthPack
+[2022.02.11-20.25.02:961][370]BlueprintLog: New page: Compile BP_HealthPack
+[2022.02.11-20.25.03:015][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.02.11-20.25.05:068][523]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.11-20.25.05:073][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-20.25.05:073][523]PIE: New page: PIE session: TutorialMap (Feb 11, 2022, 8:25:05 AM)
+[2022.02.11-20.25.05:073][523]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-20.25.05:074][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001324s)
+[2022.02.11-20.25.05:075][523]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.11-20.25.05:075][523]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2022.02.11-20.25.05:075][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002154s)
+[2022.02.11-20.25.05:110][523]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2022.02.11-20.25.05:111][523]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.02.11-20.25.05:111][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-20.25.05:111][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-20.25.05:111][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-20.25.05:111][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-20.25.05:111][523]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-20.25.05:111][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-20.25.05:111][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-20.25.05:111][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-20.25.05:112][523]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.11-20.25.05:112][523]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.11-20.25.05:112][523]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.11-20.25.05:112][523]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-20.25.05:114][523]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-20.25.05:114][523]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-20.25.05:141][523]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.11-20.25.05:141][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-20.25.05:141][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-20.25.05:141][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-20.25.05:142][523]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-20.25.05:142][523]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.11-20.25.05:142][523]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.11-20.25.05:142][523]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.11-20.25.05:142][523]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.11-20.25.05:142][523]LogInit: FAudioDevice initialized.
+[2022.02.11-20.25.05:143][523]LogAudio: Display: Audio Device (ID: 13) registered with world 'TutorialMap'.
+[2022.02.11-20.25.05:191][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-20.25.05:191][523]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.11-20.25.05:192][523]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.02.11-14.25.05
+[2022.02.11-20.25.05:192][523]LogWorld: Bringing up level for play took: 0.000357
+[2022.02.11-20.25.05:192][523]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.02.11-20.25.05:199][523]PIE: Server logged in
+[2022.02.11-20.25.05:200][523]PIE: Play in editor total start time 0.128 seconds.
+[2022.02.11-20.25.17:670][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-20.25.17:670][844]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.11-20.25.17:671][844]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.11-20.25.17:675][844]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-20.25.17:676][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-20.25.17:683][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-20.25.17:689][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-20.25.17:720][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.11-20.25.17:721][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-20.25.17:722][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.11-20.25.17:729][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.02.11-20.25.17:748][845]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.02.11-20.26.48:143][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.02.11-20.26.48:151][252]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/TutorialMap_Auto04676CEBE416A8623D66F58B7E01906C1.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto0.umap'
+[2022.02.11-20.26.48:152][252]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.045
+[2022.02.11-20.26.48:152][252]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2022.02.11-20.26.48:152][252]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([2] browsable assets)...
+[2022.02.11-20.26.48:153][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2022.02.11-20.26.48:171][252]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_TunnelSpawner_Auto09B5DDF154A8FCF25258FF49C2B9B73B5.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto0.uasset'
+[2022.02.11-20.26.48:171][252]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([2] browsable assets)...
+[2022.02.11-20.26.48:205][252]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2022.02.11-20.26.48:205][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2022.02.11-20.26.48:221][252]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_Tunnel_Auto0461A81D748CD4E048AEDEFA7A56D9068.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto0.uasset'
+[2022.02.11-20.26.48:222][252]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2022.02.11-20.26.48:222][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2022.02.11-20.26.48:246][252]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_Player_Auto0BA5EFCA943625E6B034110A856F0F5CA.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto0.uasset'
+[2022.02.11-20.26.48:247][252]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack] ([2] browsable assets)...
+[2022.02.11-20.26.48:255][252]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack]
+[2022.02.11-20.26.48:255][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack]
+[2022.02.11-20.26.48:268][252]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_HealthPack_Auto0A0742B7F4C29EA7C17E1E48A9F4F7898.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_HealthPack_Auto0.uasset'
+[2022.02.11-20.26.48:268][252]LogFileHelpers: Auto-saving content packages took 0.116
+[2022.02.11-20.28.23:884][188]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-20.28.23:884][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-20.28.26:121][424]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-20.28.26:121][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-20.36.51:934][501]BlueprintLog: New page: Compile WBP_Health
+[2022.02.11-20.36.51:991][501]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2022.02.11-20.36.54:293][733]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.02.11-20.36.54:294][733]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.037
+[2022.02.11-20.36.54:294][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2022.02.11-20.36.54:295][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2022.02.11-20.36.54:320][733]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_Player_Auto1DDA5D5744B06443D425133903B57A727.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto1.uasset'
+[2022.02.11-20.36.54:321][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/UI/WBP_Health] ([2] browsable assets)...
+[2022.02.11-20.36.54:321][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/UI/WBP_Health]
+[2022.02.11-20.36.54:321][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/UI/WBP_Health" FILE="D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/UI/WBP_Health_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.02.11-20.36.54:330][733]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/WBP_Health_Auto1E723DA814569E0828F5F26A39AB7D0AD.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/UI/WBP_Health_Auto1.uasset'
+[2022.02.11-20.36.54:330][733]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack] ([2] browsable assets)...
+[2022.02.11-20.36.54:338][733]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack]
+[2022.02.11-20.36.54:338][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_HealthPack]
+[2022.02.11-20.36.54:351][733]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_HealthPack_Auto1AFEA32EE491E54F35D3AAA871B295DE4.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_HealthPack_Auto1.uasset'
+[2022.02.11-20.36.54:351][733]LogFileHelpers: Auto-saving content packages took 0.057
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.00:031][347]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/CS498GD/Game-Dev'
+[2022.02.11-20.37.07:868][347]LogSlate: Window 'Save Content' being destroyed
+[2022.02.11-20.37.08:000][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_HealthPack" FILE="D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset" SILENT=true
+[2022.02.11-20.37.08:009][347]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_HealthPack032D0CC6435AEDB280E4DB9312C85B7A.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset'
+[2022.02.11-20.37.08:010][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Maps/TutorialMap" FILE="D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Maps/TutorialMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.11-20.37.08:042][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.02.11-20.37.08:050][347]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/TutorialMapC09874214B9BE80D7A137192BC4BBEDF.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2022.02.11-20.37.08:061][347]LogFileHelpers: Saving map 'TutorialMap' took 0.051
+[2022.02.11-20.37.33:215][347]LogSlate: Window 'Submit Files' being destroyed
+[2022.02.11-20.37.34:098][347]LogSourceControl: commit successful: [main 285944d] finished working health packs
+[2022.02.11-20.37.34:197][347]SourceControl: [main 285944d] finished working health packs
+[2022.02.11-20.37.34:197][347]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2022.02.11-20.37.34:197][347]SourceControl:  create mode 100644 MP1/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset
+[2022.02.11-20.37.34:197][347]SourceControl:  create mode 100644 MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/HealthPack.uasset
+[2022.02.11-20.37.34:197][347]SourceControl:  rewrite MP1/InfiniteMatrix/Content/InfiniteMatrix/Meshes/SM_Hole_01.uasset (98%)
+[2022.02.11-20.37.34:204][347]SourceControl: Commited [main 285944d] finished working health packs.
+[2022.02.11-20.37.34:241][348]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.11-20.37.34:241][348]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2022.02.11-20.37.34:241][348]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2022.02.11-20.37.34:241][348]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
