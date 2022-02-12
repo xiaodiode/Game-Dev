@@ -2079,3 +2079,94 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.11-23.38.23:318][632]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_Player87BAD7FC481FD075883D5F9D978DB989.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
 [2022.02.11-23.38.23:329][632]AssetCheck: New page: Asset Save: BP_Player
 [2022.02.11-23.38.23:329][632]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.02.11-23.39.19:426][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.02.11-23.39.19:437][552]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/TutorialMap_Auto6BE2AAD0640510E224D4C85A2C35583EA.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto6.umap'
+[2022.02.11-23.39.19:437][552]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.048
+[2022.02.11-23.39.19:437][552]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2022.02.11-23.55.18:310][574]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-23.55.18:310][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-23.56.06:933][278]BlueprintLog: New page: Compile BP_Player
+[2022.02.11-23.56.07:003][278]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.02.11-23.56.47:612][  4]BlueprintLog: New page: Compile BP_Player
+[2022.02.11-23.56.47:674][  4]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2022.02.11-23.57.15:946][998]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to STreeView< TSharedPtr<FGraphActionNode> > [SGraphActionMenu.cpp(300)].
+[2022.02.11-23.57.16:002][998]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2022.02.11-23.57.16:006][998]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.042
+[2022.02.11-23.57.16:006][998]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([4] browsable assets)...
+[2022.02.11-23.57.16:006][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2022.02.11-23.57.16:039][998]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_Player_Auto757F3348D4F37E7994EE7EDB9B2283AB7.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto7.uasset'
+[2022.02.11-23.57.16:040][998]LogFileHelpers: Auto-saving content packages took 0.034
+[2022.02.11-23.57.37:947][261]BlueprintLog: New page: Compile BP_Player
+[2022.02.11-23.57.38:017][261]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2022.02.12-00.04.36:450][879]BlueprintLog: New page: Compile BP_Tunnel
+[2022.02.12-00.04.36:517][879]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2022.02.12-00.04.40:693][337]BlueprintLog: New page: Compile BP_Player
+[2022.02.12-00.04.40:760][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2022.02.12-00.04.47:415][ 42]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.12-00.04.47:421][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.12-00.04.47:421][ 42]PIE: New page: PIE session: TutorialMap (Feb 11, 2022, 12:04:47 PM)
+[2022.02.12-00.04.47:421][ 42]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.12-00.04.47:422][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001475s)
+[2022.02.12-00.04.47:423][ 42]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.12-00.04.47:423][ 42]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2022.02.12-00.04.47:423][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002470s)
+[2022.02.12-00.04.47:464][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2022.02.12-00.04.47:466][ 42]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.02.12-00.04.47:466][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.12-00.04.47:466][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.12-00.04.47:466][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.12-00.04.47:466][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.12-00.04.47:466][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.12-00.04.47:466][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.12-00.04.47:466][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.12-00.04.47:466][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.12-00.04.47:466][ 42]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.12-00.04.47:466][ 42]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.12-00.04.47:466][ 42]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.12-00.04.47:466][ 42]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.12-00.04.47:469][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.12-00.04.47:469][ 42]LogAudioMixer: Display: 1: FrontRight
+[2022.02.12-00.04.47:497][ 42]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.12-00.04.47:497][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.12-00.04.47:497][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.12-00.04.47:497][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.12-00.04.47:498][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.12-00.04.47:498][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.12-00.04.47:498][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.12-00.04.47:498][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.12-00.04.47:498][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.12-00.04.47:498][ 42]LogInit: FAudioDevice initialized.
+[2022.02.12-00.04.47:498][ 42]LogAudio: Display: Audio Device (ID: 20) registered with world 'TutorialMap'.
+[2022.02.12-00.04.47:546][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.12-00.04.47:546][ 42]LogLoad: Game class is 'GM_Tutorial_C'
+[2022.02.12-00.04.47:547][ 42]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2022.02.11-18.04.47
+[2022.02.12-00.04.47:547][ 42]LogWorld: Bringing up level for play took: 0.000380
+[2022.02.12-00.04.47:548][ 42]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.02.12-00.04.47:554][ 42]PIE: Server logged in
+[2022.02.12-00.04.47:555][ 42]PIE: Play in editor total start time 0.135 seconds.
+[2022.02.12-00.06.04:513][145]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.12-00.06.04:513][145]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.02.12-00.06.05:718][272]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.02.12-00.06.05:718][272]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.02.12-00.07.24:848][651]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.12-00.07.24:848][651]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.02.12-00.08.04:278][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.12-00.08.04:278][615]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2022.02.12-00.08.04:278][615]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.12-00.08.04:280][615]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-00.08.04:280][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-00.08.04:290][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.12-00.08.04:296][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-00.08.04:329][615]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.12-00.08.04:329][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.12-00.08.04:330][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.12-00.08.04:338][615]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.02.12-00.08.04:358][616]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.02.12-00.08.14:882][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2022.02.12-00.08.14:902][815]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_TunnelC7CA31BA482BF237B7BEB59C2376E6B6.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2022.02.12-00.08.14:913][815]AssetCheck: New page: Asset Save: BP_Tunnel
+[2022.02.12-00.08.14:913][815]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.02.12-00.08.16:892][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2022.02.12-00.08.16:926][  7]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/BP_Player3D64463E4E4861B0AC7B94BE7DF10AC5.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.02.12-00.08.16:938][  7]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.12-00.08.16:938][  7]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
