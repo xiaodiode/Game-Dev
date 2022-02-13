@@ -3929,3 +3929,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.13-07.30.06:606][493]LogSavePackage: Moving 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Saved/SHAKE738A47C44E39A2D1F5BD63910F81992E.tmp' to 'D:/CS498GD/Game-Dev/MP1/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/SHAKE.uasset'
 [2022.02.13-07.30.06:615][493]AssetCheck: New page: Asset Save: SHAKE
 [2022.02.13-07.30.06:615][493]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/SHAKE.SHAKE
+[2022.02.13-07.37.06:621][655]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.13-07.37.06:631][655]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.13-07.37.06:631][655]LogAudioMixer: Display: 1: FrontRight
+[2022.02.13-16.01.31:542][671]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.13-16.01.31:721][671]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.13-16.01.31:721][671]LogAudioMixer: Display: 1: FrontRight
+[2022.02.13-16.01.32:029][672]LogHttp: Warning: 000002499553DD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B60F61CBC-45BC-D0E1-40B4-6B871C5849C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=8d6f608e438e230858000d9283eef603%7C1bcbf558605448159b9495e30620faed%7Cadd6be7c-7a0d-4600-bfa4-f429f4a49936&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.13-16.01.32:029][672]LogHttp: Warning: 000002499553DD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.02.13-16.01.32:029][672]LogHttp: Warning: 000002499553DD00: libcurl info message cache 0 (Connection 4 seems to be dead!)
+[2022.02.13-16.01.32:029][672]LogHttp: Warning: 000002499553DD00: libcurl info message cache 1 (Closing connection 4)
+[2022.02.13-16.01.32:029][672]LogHttp: Warning: 000002499553DD00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.02.13-16.01.32:029][672]LogHttp: Warning: 000002499553DD00: libcurl info message cache 3 (Closing connection 5)
+[2022.02.13-16.01.32:030][672]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B60F61CBC-45BC-D0E1-40B4-6B871C5849C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=8d6f608e438e230858000d9283eef603%7C1bcbf558605448159b9495e30620faed%7Cadd6be7c-7a0d-4600-bfa4-f429f4a49936&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.13-16.37.13:624][715]LogRenderer: Reallocating scene render targets to support 1996x964 Format 10 NumSamples 1 (Frame:443468).
+[2022.02.13-17.01.36:169][908]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Bullet.BP_Bullet
